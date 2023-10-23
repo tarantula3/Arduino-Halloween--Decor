@@ -151,11 +151,11 @@ MATIC: 0xD64fb51C74E0206cB6702aB922C765c68B97dCD4
 
 
 Thanks, ca again in my next tutorial.
-Tags
------
-Halloween, Arduino Halloween Décor,	Halloween Arduino, Spooktacular, Electronics Halloween, 3d printing, Halloween Arduino ideas, Halloween 3D Printing, Halloween 3D Ideas, Halloween Costume, jack-o'-lanterns, Trick or Treat, Arduino Halloween Decoration, led glow using Arduino, led dimmer using Arduino, happy Halloween, jack o lantern,
+
 
 
 Cos: https://cos.tv/videos/play/47932030253831168
+
 Odysee: https://odysee.com/@Arduino:7/3D-Printed-Arduino-Halloween-Decoration:d
+
 Rumble: https://rumble.com/v3pg1if-3d-printed-arduino-halloween-decoration.html
